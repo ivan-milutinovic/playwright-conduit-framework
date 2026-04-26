@@ -33,7 +33,7 @@ The framework is organized into five logical categories to demonstrate a compreh
 ### 1. Authentication & State Management
 
 - [x] **Global API Setup:** Injecting JWT tokens into `storageState` for instant application access.
-- [ ] **Negative UI Login:** Validating robust UI error handling for invalid user credentials.
+- [x] **Negative UI Login:** Validating robust UI error handling for invalid user credentials.
 
 ### 2. Hybrid CRUD Operations
 
