@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Reports & Cache
+/playwright-report/
+/test-results/
+/blob-report/
+/playwright/.cache/
+
+#Secrets
+.env
+.env.*
+!.env.example
+
+#Global
+/.auth/
+
+#Editors
+.vscode/
